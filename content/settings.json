@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "JoshuaCodes" },
+    "logo": { "text": "Joshua" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Joshua-resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
